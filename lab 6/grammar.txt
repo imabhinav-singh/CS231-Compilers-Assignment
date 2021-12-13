@@ -1,0 +1,6 @@
+3 2 2
+0 1 epsilon 
+B B_ 
+B
+B  : 1 $B_.in=1 B_ $B_.syn 
+B_  : epsilon $B_.syn=B_.in | 0 $B_.in=2*B_.val B_ $B_.syn=2*B_.syn | 1 $B_.in=2*B_.val+1 B_ $B_.syn=2*B_.syn 

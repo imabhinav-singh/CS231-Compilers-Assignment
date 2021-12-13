@@ -1,0 +1,13 @@
+------------ ------ ------------
+Name         Scope  Line Numbers
+------------ ------ ------------
+mark           1     4    7    9   12   12   15 
+trap           1     4 
+check          1     5    6 
+lab            1     4    7   11   12 
+cheat          1     4   10   13 
+mark           1    18   19 
+trap           1    19 
+main           1    17 
+rollno         0     1 
+name           0     2 

@@ -1,0 +1,19 @@
+int rollno ;
+char name [20];
+int trap ( int lab , bool cheat , int mark ) {
+    bool check ;
+    if check
+        then mark = lab * 15;
+    else
+        mark = 0;
+    while cheat do {
+        lab = 0;
+        mark = mark * lab ;
+        cheat = FALSE ;
+    }
+    return mark ;
+}
+void main () {
+    int mark ;
+    mark = trap (8 , 0 , 15);
+}
